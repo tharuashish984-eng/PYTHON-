@@ -126,30 +126,4 @@ Python-Roadmap/
 ├── Week-3-Functions-OOP/
 ├── Week-4-Advanced/
 └── README.md
-```
 
----
-
-## 🛠️ Tools Required
-
-- Python 3.x
-- VS Code
-- Git
-- GitHub
-
----
-
-## 📈 Progress Tracker
-
-- [ ] Week 1 Completed
-- [ ] Week 2 Completed
-- [ ] Week 3 Completed
-- [ ] Week 4 Completed
-- [ ] Final Project Completed
-- [ ] Uploaded to GitHub
-
----
-
-## ⭐ Happy Coding!
-
-Consistency is more important than speed. Practice every day, build projects, and keep improving your Python skills.
