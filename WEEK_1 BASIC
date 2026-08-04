@@ -1,1 +1,11 @@
+            DAY_1
+First program 
+    print("Hello World")
+ESCAPE SEQUENCE->\n
+COMMENTS-> #comments
+VARIABLES-> is a cntainer that holds data.
+        a= 1234
+        b="Ashish"
+        print(a)
+        print(b)
 
